@@ -1,0 +1,4 @@
+Corpus length (chars): 45243559
+Unique symbols (allowed): 38
+Total counts (k=0): 45243559
+Entropy H0 (single char): 4.480527 bits
